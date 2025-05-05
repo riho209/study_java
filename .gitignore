@@ -1,0 +1,29 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS metadata
+.Spotlight-V100
+.Trashes
+
+# VSCode settings
+.vscode/
+
+# Node.js（必要に応じて）
+node_modules/
+npm-debug.log*
+
+# Python（必要に応じて）
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# C++やAtCoder用に
+*.out
+*.exe
+*.o
+*.log
