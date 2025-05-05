@@ -27,3 +27,7 @@ __pycache__/
 *.exe
 *.o
 *.log
+
+# Java class files
+*.class
+
